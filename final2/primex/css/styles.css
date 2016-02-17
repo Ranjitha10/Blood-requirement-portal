@@ -1,0 +1,21 @@
+/*
+http://www.freshdesignweb.com/beautiful-registration-form-with-html5-and-css3.html
+*/
+
+
+
+
+.form{
+	background:#dbdbdb; width:300px; height:500px; margin:0 auto; padding-left:150px; padding-top:50px;
+}
+.img
+{
+background:#dbdbdb; 
+}
+.form fieldset{border:0px; padding:0px; margin:0px;}
+.form p.login { font-size: 12px; margin:0px 0px 10px 0;line-height: 14px; font-family:Arial, Helvetica;}
+.form input[type="text"] { width: 200px; }
+.form input[type="email"] { width: 200px; }
+.form input[type="password"] { width: 200px; }
+.form input, textarea { background-color: rgba(255, 255, 255, 0.4); border: 1px solid rgba(122, 192, 0, 0.15); padding: 7px; font-family: Keffeesatz, Arial; color: #4b4b4b; font-size: 14px; -webkit-border-radius: 5px; margin-bottom: 15px; margin-top: -10px; }
+.form input:focus, textarea:focus { border: 1px solid #ff5400; background-color: rgba(255, 255, 255, 1); }
